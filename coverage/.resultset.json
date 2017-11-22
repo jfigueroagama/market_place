@@ -13,6 +13,37 @@
         1,
         2,
         null,
+        null,
+        1,
+        5,
+        5,
+        2,
+        null,
+        3,
+        null,
+        null,
+        null,
+        1,
+        5,
+        null,
+        5,
+        2,
+        null,
+        3,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        null,
+        1,
+        10,
+        null,
         null
       ],
       "/Users/machd/Documents/josue/Rails/market_place_api/app/controllers/application_controller.rb": [
@@ -42,6 +73,6 @@
         null
       ]
     },
-    "timestamp": 1511309586
+    "timestamp": 1511373521
   }
 }
