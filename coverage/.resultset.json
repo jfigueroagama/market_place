@@ -1,0 +1,47 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/machd/Documents/josue/Rails/market_place_api/spec/support/factory_girl.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/machd/Documents/josue/Rails/market_place_api/app/controllers/api/v1/users_controller.rb": [
+        1,
+        1,
+        null,
+        1,
+        2,
+        null,
+        null
+      ],
+      "/Users/machd/Documents/josue/Rails/market_place_api/app/controllers/application_controller.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/machd/Documents/josue/Rails/market_place_api/spec/models/user_spec.rb": [
+        1,
+        null,
+        1,
+        9,
+        null,
+        9,
+        null,
+        2,
+        2,
+        2,
+        2,
+        null,
+        2,
+        null,
+        2,
+        2,
+        2,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1511309586
+  }
+}
